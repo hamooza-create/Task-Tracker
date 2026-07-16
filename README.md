@@ -152,11 +152,3 @@ project/
 
 - All data is stored locally in plain JSON — easy to inspect, back up, or edit by hand if needed.
 - No external dependencies or installation steps required beyond Python itself.
-
-## Roadmap / Possible Improvements
-
-- [ ] Case-insensitive status matching
-- [ ] Sort tasks by creation or update date
-- [ ] Search tasks by keyword
-- [ ] Priority levels
-- [ ] Due dates and overdue warnings
